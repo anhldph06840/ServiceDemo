@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="204dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btn_Find"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_Find"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="88dp"
+        tools:ignore="MissingConstraints" />
+</android.support.constraint.ConstraintLayout>

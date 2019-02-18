@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="btn_open">OK</string>
+    <string name="btn_stop">Stop</string>
+    <string name="b_i_3">Bài 3</string>
+    <string name="button">Button</string>
+    <string name="btn_b3">Tìm</string>
+    <string name="btn_B3">Bài 3</string>
+    <string name="btn_Find">Tìm</string>
+</resources>
